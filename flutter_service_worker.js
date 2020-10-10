@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/dj6.png": "71c302ae27cda2719a0b9aa2fec8c022",
 "assets/dj7.png": "c9a9ff16a8b54c47ab5da9790db63b5c",
 "assets/flogo2.jpg": "8897b1ec015f9fda84fc9bd80988bc68",
-"assets/FontManifest.json": "2335d9494af22279cdf41a5ec494d5e4",
+"assets/FontManifest.json": "f3b0264d72fd2dd0cfd0f3dee5334c95",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/gelanshi.jpg": "e7fec410a5a31903c753cdbe7aa158e7",
 "assets/geli.jpg": "b57bbf07391bb68a5467d37602752844",
@@ -88,8 +88,8 @@ const RESOURCES = {
 "favicon.png": "4776ce31851c631032eb54db71d7089b",
 "icons/Icon-192.png": "b12316bcfa34e63b9dafa2350d3cff22",
 "icons/Icon-512.png": "b12316bcfa34e63b9dafa2350d3cff22",
-"index.html": "0a591d944220a0a3022938bfba498c29",
-"/": "0a591d944220a0a3022938bfba498c29",
+"index.html": "4020d7ce4ea7b06185229302d244f597",
+"/": "4020d7ce4ea7b06185229302d244f597",
 "main.dart.js": "ab621110e1e98769e67c10be332f3940",
 "manifest.json": "a7e60ee95653e0359cdcb95e21f6e1c1"
 };
