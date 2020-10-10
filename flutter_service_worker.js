@@ -46,7 +46,7 @@ const RESOURCES = {
 "assets/ios.jpg": "101dfe495aebb09a472164863faa8f07",
 "assets/kangjia.jpg": "73c13e416d2543823ec26530c664f027",
 "assets/lansiyujiafang.jpg": "ec9c122210f12ba779ea7f1a00d3690e",
-"assets/logo.jpg": "9f2d2477610de9edf0668bc9446a0afd",
+"assets/logo.png": "5a4457c4150d1892c9474d6b37fa4db0",
 "assets/luolaijiafang.jpg": "32d3507eeb841d93cf19b0241056bbd6",
 "assets/lxwm.jpg": "046ae0d9fb62c0917827c3f3a5482c44",
 "assets/m1.png": "7b2d341059da6be3cc5269b58d8a146f",
@@ -88,9 +88,9 @@ const RESOURCES = {
 "favicon.png": "4776ce31851c631032eb54db71d7089b",
 "icons/Icon-192.png": "b12316bcfa34e63b9dafa2350d3cff22",
 "icons/Icon-512.png": "b12316bcfa34e63b9dafa2350d3cff22",
-"index.html": "e14725a538a92a154f79317e78ee5b09",
-"/": "e14725a538a92a154f79317e78ee5b09",
-"main.dart.js": "f04e8a5036473ebc39d4762cadfe6327",
+"index.html": "73eb6b3d383813f9da9e2f52a4787f4a",
+"/": "73eb6b3d383813f9da9e2f52a4787f4a",
+"main.dart.js": "ab621110e1e98769e67c10be332f3940",
 "manifest.json": "a7e60ee95653e0359cdcb95e21f6e1c1"
 };
 
