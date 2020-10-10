@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/adidas.jpg": "889b4d9af5c7405a134223c1eab8fe61",
 "assets/aima.jpg": "fc2dfea5d2580eeeaa733c25798c55b7",
 "assets/androidx.jpg": "64f1fd69c984f029202b384207336121",
-"assets/AssetManifest.json": "4ad76a9dcb98f5dd76807f0d0f0fcef8",
+"assets/AssetManifest.json": "84473b00fbf8ba9f75e943de9ba88a57",
 "assets/avi.jpg": "8b38ce9ddc71cb4baf9a2c35374d21a5",
 "assets/banner2.jpg": "56108ffa77c217e14a1475e568d38091",
 "assets/banner3.jpg": "1c66dcc9625d1132b8cad2806fb4d3f7",
@@ -70,8 +70,9 @@ const RESOURCES = {
 "assets/mrtx.jpg": "8f1fa9aa6c2b32c80136704202c798a2",
 "assets/mrtx1.jpg": "8f1fa9aa6c2b32c80136704202c798a2",
 "assets/mtjja.jpg": "a68c14172c4c0a03b3369c8777adf0e2",
-"assets/NOTICES": "30a2151fe6349517ee2703fa2b364154",
+"assets/NOTICES": "06f65b2a3ca4ddb638eeebcbab62c228",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "64b96825d49e070ea87c7100f2db3f46",
 "assets/qyz.png": "908fb93807892775a703ec2c52d8bad2",
 "assets/shengfulai.jpg": "26a4c73a76199a3810b6ff580baf9c11",
 "assets/shuixingjiafang.jpg": "5ab0bca1a8a3110d0c851893c73a4ebb",
@@ -88,9 +89,9 @@ const RESOURCES = {
 "favicon.png": "4776ce31851c631032eb54db71d7089b",
 "icons/Icon-192.png": "b12316bcfa34e63b9dafa2350d3cff22",
 "icons/Icon-512.png": "b12316bcfa34e63b9dafa2350d3cff22",
-"index.html": "7b3095b752951d34f9efb0391f545ce3",
-"/": "7b3095b752951d34f9efb0391f545ce3",
-"main.dart.js": "ab621110e1e98769e67c10be332f3940",
+"index.html": "7973bd362256777c77fbc14ba1adba4b",
+"/": "7973bd362256777c77fbc14ba1adba4b",
+"main.dart.js": "d9ee3107b98b69bfa1d2c7072f986f11",
 "manifest.json": "a7e60ee95653e0359cdcb95e21f6e1c1"
 };
 
