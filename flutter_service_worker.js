@@ -29,6 +29,10 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/gelanshi.jpg": "e7fec410a5a31903c753cdbe7aa158e7",
 "assets/geli.jpg": "b57bbf07391bb68a5467d37602752844",
+"assets/gsdh.png": "66413a861df9a29cd3c24165f14c92a2",
+"assets/gsdz.png": "938a235aa1eaed7cb21416de74099069",
+"assets/gshm.png": "be064826afba7b8787dc7f50873b768c",
+"assets/gsyx.png": "1e8e43a120f162826daaa69b14f03f4b",
 "assets/guizhoumaotai.jpg": "f0222ecb4de3596b2a5e64bb4a9e18d4",
 "assets/gzh.png": "3fd625a3b64d669579b770a99777b14e",
 "assets/hhgz.jpg": "e6378202b3ebf9b8f43fc419847f86ca",
@@ -88,9 +92,9 @@ const RESOURCES = {
 "favicon.png": "4776ce31851c631032eb54db71d7089b",
 "icons/Icon-192.png": "b12316bcfa34e63b9dafa2350d3cff22",
 "icons/Icon-512.png": "b12316bcfa34e63b9dafa2350d3cff22",
-"index.html": "b56af2622c391e0f54fa0eadae62b7a9",
-"/": "b56af2622c391e0f54fa0eadae62b7a9",
-"main.dart.js": "5064c8365ee6d19f3065d7b695b14402",
+"index.html": "fd5484dcc531a3855cdbcf697631b7bc",
+"/": "fd5484dcc531a3855cdbcf697631b7bc",
+"main.dart.js": "deb2653a1d73c924b4d11176ead269c5",
 "manifest.json": "a7e60ee95653e0359cdcb95e21f6e1c1"
 };
 
