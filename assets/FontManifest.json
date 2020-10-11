@@ -3,9 +3,24 @@
     "family": "MaterialIcons",
     "fonts": [
       {
-        "asset": "https://fonts.gstatic.com/s/materialicons/v52/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+        "asset": "MaterialIcons-Extended.ttf"
+      }
+    ]
+  },
+  {
+    "family": "GoogleSans",
+    "fonts": [
+      {
+        "asset": "GoogleSans-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "GalleryIcons",
+    "fonts": [
+      {
+        "asset": "GalleryIcons.ttf"
       }
     ]
   }
 ]
-
